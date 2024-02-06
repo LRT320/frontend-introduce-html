@@ -19,7 +19,7 @@
 - `div`, `span`태그의 사용을 최대한 지양한다.
 - [시멘틱 태그 구조](https://ossam5.tistory.com/111)
 - [시멘틱 태그 사용 예시 mdn](https://developer.mozilla.org/ko/docs/Glossary/Semantics)
-- [시멘틱 태그 사용 예시 w3s](https://developer.mozilla.org/ko/docs/Learn/Accessibility/HTML)
+- [시멘틱 태그 사용 예시 w3s]([https://developer.mozilla.org/ko/docs/Learn/Accessibility/HTML](https://developer.mozilla.org/ko/docs/Learn/Accessibility/HTML))
 
 ## 🚀 과제 진행 요구 사항
 
