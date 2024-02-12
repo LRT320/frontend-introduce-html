@@ -17,14 +17,16 @@
 - **시멘틱 태그**를 고려하여 작성한다.
   - 시각장애인분들이 우리의 문서를 본다는 것을 염두하여 작성한다.
 - `div`, `span`태그의 사용을 최대한 지양한다.
+- README.md 작성법은 **[다음](https://commonmark.org/help/)** 을 참고한다.
 - [시멘틱 태그 구조](https://ossam5.tistory.com/111)
 - [MDN(링크 첨부)](https://developer.mozilla.org/ko/docs/Glossary/Semantics)
 - [W3C(링크 첨부)](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- 1주차 과제는 2월 13 ~ 2월 18일까지 완료해야한다.
 
 ## 🚀 과제 진행 요구 사항
 
 - 미션은 **frontend-introduce-html** 저장소를 fork하고 clone하여 시작한다.
 - 미션 완료 이후 `docs/README.md`에 미션을 통해 배운 내용들을 작성한다.
 - 과제 진행 및 제출 방법은 **[미션 진행 가이드](https://www.notion.so/f0571981555d4509839b9db8d5382162?pvs=21)** 문서를 참고한다.
-- README.md 작성법은 **[다음](https://commonmark.org/help/)** 을 참고한다.
+
 
