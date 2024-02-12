@@ -18,7 +18,7 @@
   - 시각장애인분들이 우리의 문서를 본다는 것을 염두하여 작성한다.
 - `div`, `span`태그의 사용을 최대한 지양한다.
 - README.md 작성법은 **[다음](https://commonmark.org/help/)** 을 참고한다.
-- [시멘틱 태그 구조](https://ossam5.tistory.com/111)의 구조와 예시는 [MDN(링크 첨부)](https://developer.mozilla.org/ko/docs/Glossary/Semantics), [W3C(링크 첨부)](https://www.w3schools.com/html/html5_semantic_elements.asp)의 공식 문서를 참고한다.`
+- [시멘틱 태그 구조](https://ossam5.tistory.com/111)의 구조와 예시는 [MDN(링크 첨부)](https://developer.mozilla.org/ko/docs/Glossary/Semantics), [W3C(링크 첨부)](https://www.w3schools.com/html/html5_semantic_elements.asp)의 공식 문서를 참고한다.
 - 1주차 과제는 2월 13 ~ 2월 18일까지 완료해야한다.
 
 ## 🚀 과제 진행 요구 사항
