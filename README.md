@@ -25,5 +25,5 @@
 
 - 미션은 **frontend-introduce-html** 저장소를 fork하고 clone하여 시작한다.
 - 미션 완료 이후 `docs/README.md`에 미션을 통해 배운 내용들을 작성한다.
-- README.md 작성법은 **[다음](https://commonmark.org/help/)**을 참고한다.
+- README.md 작성법은 [다음](https://commonmark.org/help/)을 참고한다.
 
